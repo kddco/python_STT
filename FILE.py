@@ -1,3 +1,4 @@
+# coding=utf-8
 def write(userPassword):
     try:
         f = open('USER_identity.txt','w')
