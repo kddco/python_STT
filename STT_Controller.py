@@ -1,5 +1,5 @@
 import STT
 import FILE
-TextResult="撥放音樂"
+TextResult="null"
 TextResult=STT.Speaker()
 FILE.write(TextResult)
