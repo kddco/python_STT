@@ -1,8 +1,5 @@
 import STT
-import Tojson
+import FILE
 TextResult="撥放音樂"
 TextResult=STT.Speaker()
-print(TextResult)
-Tojson.Transport(TextResult)
-print(Tojson.Transport(TextResult))
-
+FILE.write(TextResult)

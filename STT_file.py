@@ -1,3 +1,4 @@
+##用音檔轉文字
 import speech_recognition as  sr
 r = sr.Recognizer()
 with sr.AudioFile("F:/training/k2.wav") as source:
