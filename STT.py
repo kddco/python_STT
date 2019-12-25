@@ -1,3 +1,5 @@
+import sys
+
 import speech_recognition as sr
 def Speaker():
     #obtain audio from the microphone
