@@ -8,5 +8,5 @@ Windows x86-64 executable installer
 pip install pyaudio
 pip install SpeechRecognition
 
-3.執行STT_Controller
+3.執行
 python STT_Controller
