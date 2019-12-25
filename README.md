@@ -1,3 +1,12 @@
 # python_STT
-語音轉文字 接GOOGLE API
-最後會存到一個檔案裡面
+1.
+安裝python 3.6.0
+https://www.python.org/downloads/release/python-360/
+Windows x86-64 executable installer
+
+2.安裝套件
+pip install pyaudio
+pip install SpeechRecognition
+
+3.執行STT_Controller
+python STT_Controller
