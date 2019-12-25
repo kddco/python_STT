@@ -1,6 +1,5 @@
 # python_STT
-1.
-安裝python 3.6.0
+1.安裝python 3.6.0
 https://www.python.org/downloads/release/python-360/
 Windows x86-64 executable installer
 
