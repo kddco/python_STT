@@ -7,7 +7,7 @@ def Speaker():
     with sr.Microphone() as source:
         print("請等待校準中...")
         #listen for 5 seconds and create the ambient noise energy level
-        r.adjust_for_ambient_noise(source, duration=5)
+        r.adjust_for_ambient_noise(source, duration=4)
         print("請說話!")
         audio=r.listen(source)
 
