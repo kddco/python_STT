@@ -2,7 +2,7 @@ print("python excute!")
 import STT
 import FILE
 import os
-TextResult="null"
+TextResult="NULL"
 TextResult=STT.Speaker()
 FILE.write(TextResult)
 
